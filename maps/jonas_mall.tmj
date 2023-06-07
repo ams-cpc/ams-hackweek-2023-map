@@ -494,7 +494,7 @@
         {
          "columns":16,
          "firstgid":1893,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/22_Museum_32x32.png",
+         "image":"..\/tilesets\/modern\/22_Museum_32x32.png",
          "imageheight":3904,
          "imagewidth":512,
          "margin":0,
@@ -626,7 +626,7 @@
         {
          "columns":16,
          "firstgid":3845,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/24_Ice_Cream_Shop_32x32.png",
+         "image":"..\/tilesets\/modern\/24_Ice_Cream_Shop_32x32.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -893,7 +893,7 @@
         {
          "columns":16,
          "firstgid":4117,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/6_Music_and_sport_32x32.png",
+         "image":"..\/tilesets\/modern\/6_Music_and_sport_32x32.png",
          "imageheight":1536,
          "imagewidth":512,
          "margin":0,
@@ -1232,7 +1232,7 @@
         {
          "columns":16,
          "firstgid":4885,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/20_Japanese_interiors_32x32.png",
+         "image":"..\/tilesets\/modern\/20_Japanese_interiors_32x32.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -1265,7 +1265,7 @@
         {
          "columns":16,
          "firstgid":5397,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/14_Basement_32x32.png",
+         "image":"..\/tilesets\/modern\/14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -1279,7 +1279,7 @@
         {
          "columns":16,
          "firstgid":6197,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/21_Clothing_Store_32x32.png",
+         "image":"..\/tilesets\/modern\/21_Clothing_Store_32x32.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -1510,7 +1510,7 @@
         {
          "columns":16,
          "firstgid":7269,
-         "image":"..\/tilesets\/modern\/Modern_Interiors_v41.3.4\/1_Interiors\/32x32\/Theme_Sorter_32x32\/2_LivingRoom_32x32.png",
+         "image":"..\/tilesets\/modern\/2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
