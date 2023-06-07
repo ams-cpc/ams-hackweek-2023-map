@@ -312,6 +312,55 @@
         }, 
         {
          "draworder":"topdown",
+         "id":9,
+         "name":"jonasSigns",
+         "objects":[
+                {
+                 "height":29.5973276325585,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Market Sans",
+                     "pixelsize":18,
+                     "text":"Top Fashion",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":123.248685530234,
+                 "x":1176.69148153797,
+                 "y":1043.60153471131
+                }, 
+                {
+                 "height":29.5973,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Market Sans",
+                     "pixelsize":18,
+                     "text":"Pokellectables",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":157.164129456531,
+                 "x":646.457227190007,
+                 "y":709.827042778559
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":5,
          "locked":true,
          "name":"floorLayer",
@@ -383,8 +432,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
- "nextobjectid":1,
+ "nextlayerid":10,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
