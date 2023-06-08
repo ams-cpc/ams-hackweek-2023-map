@@ -1597,7 +1597,7 @@
                  "y":567.1875
                 }, 
                 {
-                 "height":86,
+                 "height":129.123455865838,
                  "id":22,
                  "name":"golem zone",
                  "properties":[
@@ -1609,9 +1609,9 @@
                  "rotation":0,
                  "type":"base",
                  "visible":true,
-                 "width":142,
-                 "x":1027.03921568627,
-                 "y":198.830065359477
+                 "width":216.747323500786,
+                 "x":311.04,
+                 "y":155.706609493639
                 }],
          "opacity":1,
          "type":"objectgroup",
