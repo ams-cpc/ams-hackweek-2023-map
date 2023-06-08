@@ -13089,8 +13089,8 @@
         13,
         14,
         0,
-        0,
-        0,
+        13,
+        14,
         0,
         0,
         0,
@@ -13149,8 +13149,8 @@
         25,
         26,
         0,
-        0,
-        0,
+        25,
+        26,
         0,
         0,
         0,
@@ -15084,7 +15084,19 @@
           },
           "type": "",
           "width": 148.234375
-        },
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "draworder": "topdown",
+      "id": 8,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "floorLayer",
+      "objects": [
         {
           "id": 2,
           "name": "Bulbasaur zone",
@@ -15108,17 +15120,6 @@
       "type": "objectgroup",
       "visible": true,
       "draworder": "topdown",
-      "id": 8,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "floorLayer",
-      "objects": [],
-      "opacity": 1,
-      "type": "objectgroup",
-      "visible": true,
-      "draworder": "topdown",
       "id": 5,
       "x": 0,
       "y": 0
@@ -15129,7 +15130,7 @@
     {
       "columns": 11,
       "firstgid": 1,
-      "image": "pocollectibles-chunk-1-5306f4a3.png",
+      "image": "pocollectibles-chunk-1-be2bc838.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
