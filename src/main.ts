@@ -49,10 +49,6 @@ const handleFashionShop = () => {
     })
     WA.room.area.onLeave("entryShop").subscribe(closePopup);
 
-    WA.room.area.onEnter('menSection').subscribe(() => {
-        WA.ui.
-    }
-
 
 }
 // Waiting for the API to be ready
