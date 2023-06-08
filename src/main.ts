@@ -39,6 +39,8 @@ const handleAd = () => {
         ]);
         WA.room.area.onLeave("airjordanad").subscribe(closePopup);
     });
+
+    WA.room.area.onEnter("nikead").subscribe(() => {});
 }
 
 
