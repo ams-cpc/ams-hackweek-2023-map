@@ -1599,12 +1599,12 @@
                 {
                  "height":86,
                  "id":22,
-                 "name":"Bulbasaur zone",
+                 "name":"golem zone",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"ebay.com\/itm\/325670254006?hash=item4bd375b5b6:g:mPgAAOSwtYtkcMYe&amdata=enc%3AAQAIAAAA4C6bVSJjTM7UO3unEGd6juavYb4pgnBugFGH54V6iubGtf3mesEmZVe67uOeqwFTvXC9ObuYltTDofb%2FNjcHJDZnGdsESvuzOHWMTPyMsNuoUZvkUTP%2FLX0uXFeNG7kRK5d8D4scqsmvi23gWf3v46lZmvBRRsG3Tg5HVQJK3%2FDy9PFx6%2BcgxxaBzdtYGyjaXcXDmozT7cd0acBTAHcbyFciLTF4QkHlzq3yWr08xlwAOxRP1mPhq0zMnbotjWOY1cBX%2FahccXgeDHvCgn1Zm%2BKEeYKGT8Lj2FepfMeFCJl3%7Ctkp%3ABFBM9Jfu3JJi"
+                         "value":"https:\/\/www.ebay.com\/itm\/144064463913?hash=item218ae94429:g:D~QAAOSwQHtgungB&amdata=enc%3AAQAIAAAAwIVAqAPrv4veZmCivac1kgu9APDXeeJdrE16B5gz%2FtNa%2FlhTfO0HMbVY2Bg%2FaDP%2BNaLEzs9dJTs%2BVxRBbgtG63uVLySSneGLird6KQdZB2iA%2BSwglw67p3pdc3gmUeC6xO2LTKxE8bwiM94mu%2F7BHGJXf8X8I3Q%2BUrgaacr0wH6HrQPBu3wqTELF1tH6ZKimRCG19J3KTOZv0i6xpEwEimNqvnqnHCQnNOvcdcmKjF9Qg45%2Fav0lzJk7NlfNNhtaIw%3D%3D%7Ctkp%3ABk9SR7aGnK2TYg"
                         }],
                  "rotation":0,
                  "type":"base",
