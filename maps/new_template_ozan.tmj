@@ -441,14 +441,42 @@
                 }, 
                 {
                  "draworder":"topdown",
-                 "id":14,
-                 "locked":true,
-                 "name":"name text",
+                 "id":39,
+                 "name":"name shadow",
                  "objects":[
                         {
                          "height":93.84375,
                          "id":5,
-                         "name":"",
+                         "name":"Shadow",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Market Sans",
+                             "pixelsize":72,
+                             "text":"Engage",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":295.859375,
+                         "x":1396.82,
+                         "y":1438.45
+                        }],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":14,
+                 "name":"name text",
+                 "objects":[
+                        {
+                         "height":93.8438,
+                         "id":21,
+                         "name":"Text",
                          "rotation":0,
                          "text":
                             {
@@ -460,9 +488,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":295.859375,
-                         "x":1395.8203125,
-                         "y":1437.453125
+                         "width":295.859,
+                         "x":1395.38392682681,
+                         "y":1436.67200726699
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -470,7 +498,6 @@
                  "x":0,
                  "y":0
                 }],
-         "locked":true,
          "name":"outside",
          "opacity":1,
          "type":"group",
@@ -1806,8 +1833,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":39,
- "nextobjectid":21,
+ "nextlayerid":40,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
